@@ -1,0 +1,10 @@
+{
+  "name": "delivery-pilot",
+  "description": "Claude Code plugin for delivery professionals. Commands for project management, collaboration, research, coaching, and role-based workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Boris Podzeit"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/b0r1sp/claude-plugin-delivery-pilot"
+}

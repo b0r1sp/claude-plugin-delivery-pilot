@@ -1,4 +1,5 @@
-*.pptx
 *.tmp
 .~lock.*
 .DS_Store
+tmp/
+context/roles/active-role.md

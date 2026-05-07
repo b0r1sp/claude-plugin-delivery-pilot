@@ -3,11 +3,11 @@
 This plugin supports Delivery Leads and project professionals in their daily work.
 All commands are organized in three dimensions:
 
-| Dimension         | Commands                                                        |
-|-------------------|-----------------------------------------------------------------|
-| **Data**          | `/status`, `/risks`, `/timeline`                                |
-| **Tools**         | `/estimate`, `/research`, `/context-update`                     |
-| **Collaboration** | `/agile-standup`, `/agile-retrospective`, `/update`, `/escalate`, `/handover`, `/reporting` |
+| Dimension         | Commands                                                                                                        |
+|-------------------|-----------------------------------------------------------------------------------------------------------------|
+| **Data**          | `/delivery-pilot:status`, `/delivery-pilot:risks`, `/delivery-pilot:timeline`                                   |
+| **Tools**         | `/delivery-pilot:estimate`, `/delivery-pilot:research`, `/delivery-pilot:context-update`, `/delivery-pilot:role` |
+| **Collaboration** | `/delivery-pilot:agile-standup`, `/delivery-pilot:agile-retrospective`, `/delivery-pilot:update`, `/delivery-pilot:escalate`, `/delivery-pilot:handover`, `/delivery-pilot:reporting` |
 
 ## General
 - Language: English (unless specified otherwise)
